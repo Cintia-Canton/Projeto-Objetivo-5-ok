@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+}
+h2 {
+    color:yellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4 {
+    color: white;
+    margin-left: 20px;
+}
+h3 { 
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+p {
+    color: white;
+    text-align: unset;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.borda {
+    align-items: center;
+    border: 7px gray solid;
+    padding: 5px;
+}
+#imagem {
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    border: 3px gray solid;
+    padding: 1px;
+}
+#Limagem {
+    margin-top: 6px;
+}
+#Salário {
+    margin-left: 20px;
+    margin-right: 20px;
+    float: right;
+    border: gray solid;
+    padding: 1px;
+    margin-top: -12px;
+}
+#Referência {
+    font-size: 13px;
+}
+#ranking {
+    float: left;
+    border: gray solid;
+    padding: 1px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -6px;
+}
+#Autor {
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: 40px;
+}
